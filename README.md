@@ -1,3 +1,11 @@
+
+## Project Overview 
+In this project, we used MongoDB to create our table structure for recording the entries inputted into the Fitness Tracker. For this App a user will have the ability to track his or her daily workout routine. The user has the ability to input the exercise name, reps, duration, and much more. We want you to live like to the fullest. Start working out, today and use my App to help you along the way. 
+
+Github: https://github.com/dbolding12/thefittrack.git.io
+heroku: https://stormy-dusk-65352.herokuapp.com/
+
+
 # Unit 17 Nosql Homework: Workout Tracker
 
 For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
